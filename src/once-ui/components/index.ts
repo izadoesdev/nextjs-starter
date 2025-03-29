@@ -4,7 +4,6 @@ export * from "./Avatar";
 export * from "./AvatarGroup";
 export * from "./Badge";
 export * from "./Background";
-export * from "./BarGraph"
 export * from "./Button";
 export * from "./Carousel";
 export * from "./Card";
@@ -34,11 +33,8 @@ export * from "./InteractiveDetails";
 export * from "./Kbd";
 export * from "./LetterFx";
 export * from "./Line";
-export * from "./LineBarGraph"
-export * from "./LineGraph"
 export * from "./Logo";
 export * from "./LogoCloud";
-export * from "./MultiBarGraph"
 export * from "./NavIcon";
 export * from "./NumberInput";
 export * from "./Option";
